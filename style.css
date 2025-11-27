@@ -1,0 +1,10 @@
+h1 {text-align: center; color: red}
+ 
+body {background-color: rgba(18, 255, 29, 0.7)}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {text-align: center}
